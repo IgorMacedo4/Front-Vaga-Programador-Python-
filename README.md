@@ -125,7 +125,7 @@ O projeto está disponível em produção na Vercel:
 Esta interface demonstra a integração de técnicas modernas de **front-end** (**React, Vite, Tailwind CSS**) com um **back-end** robusto para análise e extração de conteúdo web, combinando **automação, IA e engenharia de dados**.
 
 📌 **Desenvolvido por Igor Macedo** para a vaga de **Programador(a) Python** com experiência avançada em IA.  
-📩 Este demonstrativo foi enviado exclusivamente para **thomas.maia@abladvogados.com**.
+
 
 ---
 
